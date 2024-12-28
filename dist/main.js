@@ -1626,7 +1626,15 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const root = (0,react_dom_client__WEBPACK_IMPORTED_MODULE_0__.createRoot)(window.bodyTag);
-root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("main", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h1", null, "Test"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "Paragraph Testing")));
+root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("body", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("nav", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("main", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "container"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h1", null, "Redmi Turbo 3", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), "Harry Potter Limited Edition")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "CANT RENDER PICTURE")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("footer", null, "Website is created by David Billiot")));
 })();
 
 /******/ })()
