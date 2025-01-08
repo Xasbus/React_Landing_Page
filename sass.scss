@@ -1,4 +1,18 @@
 $black: rgba(0,0,0,1);
+$grey: rgba(61, 61, 61, 1);
+$textColor: rgba(247, 207, 153,1);
+
+@mixin titleText{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.boldText {
+    font-weight: bold;
+}
+.textSize {
+    font-size: 15px;
+}
 
 .topPic {
     background-image: url("./photos/title_HP_phone_pic.jpg");
@@ -6,17 +20,38 @@ $black: rgba(0,0,0,1);
     opacity: 1;
 }
 
-div h1 {color: rgba(191, 0, 29, 1);
-padding: 75px 10% 0px}
-div h3 {color: rgb(191, 0, 29, 1);
-padding: 0px 10% 75px;}
+div h1 {
+    color: rgba(191, 0, 29, 1);
+padding: 75px 10% 0px
+}
+
+div h3 {
+    color: rgb(191, 0, 29, 1);
+padding: 0px 10% 75px;
+}
 
 body {
     background-color: $black;
 };
 
-main {color: rgb(247, 207, 153);}
+main {
+    color: $textColor;
+}
+
 footer {
-    color: rgb(247, 207, 153);
+    color: $textColor;
     font-size: 10px
 }
+
+.middleSection {
+    background-color: $grey;
+    width: 100%;
+}
+
+// .centerMidSec {
+//     display: flex;
+//     border: red;
+//     width: 100%;
+//     justify-content: center;
+//     align-items: center;
+// }

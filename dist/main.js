@@ -1634,7 +1634,35 @@ root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("body"
   class: ""
 }, "This Harry Potter Xiaomi Redmi Turbo 3", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), " actually looks worthy of wizarding world")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", {
   class: "container"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h2", null, "Who needs a wand when you've ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), "got a Harry Potter-themed phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "Xiaomi has unveiled a magical-looking Harry Potter edition of the Xiaomi Redmi Turbo 3 that could enchant fans of the books and films."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Harry Potter edition of the latest Redmi Turbo 3 was revealed in China, although one version is going on sale globally. It features a host of Harry Potter-themed embellishments, including an ornate Diagon Alley-style presentation box with a Hogwarts school badge pin, a themed case, a custom charger, and themed animations and wallpapers."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Redmi Turbo 3's design features a vibrant blue and gold back panel with a prominent Hogwarts emblem at the forefront, accompanied by the inscription \"Harry Potter\" below it. The camera flash also has a lightning bolt with a wand and the word \"Lumos\" next to it. The blue section features illustrations of Harry Potter lore, including the dreaded Horcruxes."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "About the Phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "6.67-inch 120Hz OLED display."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "Qualcomm Snapdragon 8s Gen 3 processor."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "16GB LPDDR5X RAM, 512GB UFS 4.0 storage."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "50MP+8MP rear dual-cameras, a 16MP selfie camera."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "5000mAh battery, 90W Fast Flash Charge.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("footer", {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h2", null, "Who needs a wand when you've ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), "got a Harry Potter-themed phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "Xiaomi has unveiled a magical-looking Harry Potter edition of the Xiaomi Redmi Turbo 3 that could enchant fans of the books and films."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Harry Potter edition of the latest Redmi Turbo 3 was revealed in China, although one version is going on sale globally. It features a host of Harry Potter-themed embellishments, including an ornate Diagon Alley-style presentation box with a Hogwarts school badge pin, a themed case, a custom charger, and themed animations and wallpapers."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Redmi Turbo 3's design features a vibrant blue and gold back panel with a prominent Hogwarts emblem at the forefront, accompanied by the inscription \"Harry Potter\" below it. The camera flash also has a lightning bolt with a wand and the word \"Lumos\" next to it. The blue section features illustrations of Harry Potter lore, including the dreaded Horcruxes."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "About the Phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "6.67-inch 120Hz OLED display."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "Qualcomm Snapdragon 8s Gen 3 processor."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "16GB LPDDR5X RAM, 512GB UFS 4.0 storage."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "50MP+8MP rear dual-cameras, a 16MP selfie camera."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "5000mAh battery, 90W Fast Flash Charge."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", {
+  class: "middleSection"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", {
+  class: "fw-bold, centerMidSec"
+}, "Amazing Features", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), "Power, Elegance, Speed, Luxury"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row, border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 1"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 1"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 1")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row, border border-danger"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 2"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 2"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 2")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row, border border-info"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 3"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 3"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, "SECTION 3")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("footer", {
   class: "container"
 }, "Website is created by David Billiot")));
 })();

@@ -53,6 +53,28 @@ root.render(
           <li>5000mAh battery, 90W Fast Flash Charge.</li>
         </ul>
       </section>
+      <section class="middleSection">
+        <p class="fw-bold, centerMidSec">
+          Amazing Features
+          <br />
+          Power, Elegance, Speed, Luxury
+        </p>
+        <div class="row, border border-success">
+          <div class="col">SECTION 1</div>
+          <div class="col">SECTION 1</div>
+          <div class="col">SECTION 1</div>
+        </div>
+        <div class="row, border border-danger">
+          <div class="col">SECTION 2</div>
+          <div class="col">SECTION 2</div>
+          <div class="col">SECTION 2</div>
+        </div>
+        <div class="row, border border-info">
+          <div class="col">SECTION 3</div>
+          <div class="col">SECTION 3</div>
+          <div class="col">SECTION 3</div>
+        </div>
+      </section>
     </main>
     <footer class="container">Website is created by David Billiot</footer>
   </body>
