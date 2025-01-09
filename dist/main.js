@@ -1626,7 +1626,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const root = (0,react_dom_client__WEBPACK_IMPORTED_MODULE_0__.createRoot)(window.bodyTag);
-root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("body", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("nav", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("main", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("main", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
   class: "topPic"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h1", {
   class: ""
@@ -1634,37 +1634,140 @@ root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("body"
   class: ""
 }, "This Harry Potter Xiaomi Redmi Turbo 3", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), " actually looks worthy of wizarding world")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", {
   class: "container"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h2", null, "Who needs a wand when you've ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), "got a Harry Potter-themed phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "Xiaomi has unveiled a magical-looking Harry Potter edition of the Xiaomi Redmi Turbo 3 that could enchant fans of the books and films."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Harry Potter edition of the latest Redmi Turbo 3 was revealed in China, although one version is going on sale globally. It features a host of Harry Potter-themed embellishments, including an ornate Diagon Alley-style presentation box with a Hogwarts school badge pin, a themed case, a custom charger, and themed animations and wallpapers."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Redmi Turbo 3's design features a vibrant blue and gold back panel with a prominent Hogwarts emblem at the forefront, accompanied by the inscription \"Harry Potter\" below it. The camera flash also has a lightning bolt with a wand and the word \"Lumos\" next to it. The blue section features illustrations of Harry Potter lore, including the dreaded Horcruxes."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "About the Phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "6.67-inch 120Hz OLED display."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "Qualcomm Snapdragon 8s Gen 3 processor."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "16GB LPDDR5X RAM, 512GB UFS 4.0 storage."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "50MP+8MP rear dual-cameras, a 16MP selfie camera."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "5000mAh battery, 90W Fast Flash Charge."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h2", null, "Who needs a wand when you've ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), "got a Harry Potter-themed phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "Xiaomi has unveiled a magical-looking Harry Potter edition of the Xiaomi Redmi Turbo 3 that could enchant fans of the books and films."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Harry Potter edition of the latest Redmi Turbo 3 was revealed in China, although one version is going on sale globally. It features a host of Harry Potter-themed embellishments, including an ornate Diagon Alley-style presentation box with a Hogwarts school badge pin, a themed case, a custom charger, and themed animations and wallpapers."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "The Redmi Turbo 3's design features a vibrant blue and gold back panel with a prominent Hogwarts emblem at the forefront, accompanied by the inscription \"Harry Potter\" below it. The camera flash also has a lightning bolt with a wand and the word \"Lumos\" next to it. The blue section features illustrations of Harry Potter lore, including the dreaded Horcruxes."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "About the Phone"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "6.67-inch 120Hz OLED display."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "Qualcomm Snapdragon 8s Gen 3 processor."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "16GB LPDDR5X RAM, 512GB UFS 4.0 storage."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "50MP+8MP rear dual-cameras, a 16MP selfie camera."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("li", null, "5000mAh battery, 90W Fast Flash Charge.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", {
+  class: "centerMidSec"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("iframe", {
+  width: "560",
+  height: "315",
+  src: "https://www.youtube.com/embed/vUwI9L6hoRk?si=SOgkc5El5zqapo0j",
+  title: "YouTube video player",
+  frameBorder: "0",
+  allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+  referrerPolicy: "strict-origin-when-cross-origin",
+  allowFullScreen: true
+}))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", {
   class: "middleSection"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", {
-  class: "fw-bold, centerMidSec"
-}, "Amazing Features", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), "Power, Elegance, Speed, Luxury"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "row, border border-success"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 1"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 1"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 1")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "row, border border-danger"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 2"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 2"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 2")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "row, border border-info"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 3"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 3"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col"
-}, "SECTION 3")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("footer", {
   class: "container"
-}, "Website is created by David Billiot")));
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h2", {
+  class: "centerMidSec"
+}, "Amazing Features"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h5", null, "Power, Elegance, Speed, and Luxury")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Reliable System"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Xiaomi Hyper OS, offering a fresh, fast platform to help you stay connected and productive while you're on the go.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "https://img.freepik.com/premium-vector/processor-logo-icon_617585-3379.jpg",
+  width: "100px",
+  height: "100px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, "Column 3 Row 2"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "https://cdn-icons-png.flaticon.com/512/5234/5234286.png",
+  width: "100px",
+  height: "100px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Nice Display"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Features a 6.67-inch a 12-bit flexible OLED display with a resolution of 2,7120 x 1,220 pixels (FHD+), supports 2,400 nits peak brightness, 100 percent DCI-P3 color gamut, 120Hz refresh rate, Dolby Vision, and HDR10+."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Fast Processor"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Powered with Qualcomm Snapdragon 8s Gen 3 Octa-core processor that boasts strong graphics processing capacity and advanced Al computing capabilities.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "https://img.freepik.com/free-vector/futuristic-microchip-processor-background_52683-58934.jpg",
+  width: "100px",
+  height: "100px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "photos\\Redmi-Turbo-3-Harry-Potter-Edition-img-1.webp",
+  width: "300px",
+  height: "400px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1wNmr3tiEFrWkyCvCQypT78JkegIwyymWQ&s",
+  width: "100px",
+  height: "100px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Great Camera"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "50MP+8MP dual-camera setup, including a 50MP main lens with OIS support, an 8MP ultra-wide-angle lens. There is a 20MP selfie camera for shooting."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Lots of Storage & Long Lasting Battery"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Provides plenty of storage space for your contacts, music, photos, apps, and more. Equipped with a 5000mAh battery supporting 90W fast charging.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "https://thumbs.dreamstime.com/b/fast-charging-battery-status-electric-charge-icon-power-energy-indicator-fast-charging-battery-status-electric-charge-icon-power-274158749.jpg",
+  width: "100px",
+  height: "100px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, "Column 3 Row 4"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "https://media.istockphoto.com/id/999012390/vector/finger-print-scanning-identification-system.jpg?s=612x612&w=0&k=20&c=v24rj78hQMCACyJr8OLW2_aMAuvN-8Rc5ZJKxjL9lw4=",
+  width: "100px",
+  height: "100px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col border border-success"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "In-display FINGERPRINT SENSOR"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Redmi Turbo 3 Harry Potter Edition has an in-display fingerprint to unlock the phone safely and quickly."))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h3", {
+  class: "centerMidSec m-4"
+}, "Exclusive Lock Screens and Wallpapers"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", {
+  class: "centerMidSec"
+}, "Comes with a profuse amount of features including exclusive lock screen, wallpapers, and even icons"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "container"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "photos\\Castle.jpg",
+  width: "200px",
+  height: "250px"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "photos\\Gryffindor.jpg",
+  width: "200px",
+  height: "250x"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "photos\\Hufflepuff.jpg",
+  width: "200px",
+  height: "250x"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "photos\\Slytherin.jpg",
+  width: "200px",
+  height: "250x"
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
+  src: "photos\\Ravenclaw.jpg",
+  width: "200px",
+  height: "250px"
+}))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("footer", {
+  class: "centerMidSec"
+}, "Created and designed by David Billiot")));
 })();
 
 /******/ })()
