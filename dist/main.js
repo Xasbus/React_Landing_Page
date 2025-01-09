@@ -1561,6 +1561,25 @@ if (false) {} else {
   module.exports = __webpack_require__(/*! ./cjs/scheduler.development.js */ "./node_modules/scheduler/cjs/scheduler.development.js");
 }
 
+/***/ }),
+
+/***/ "./src/controllers/handleEmail.js":
+/*!****************************************!*\
+  !*** ./src/controllers/handleEmail.js ***!
+  \****************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   handleEmail: () => (/* binding */ handleEmail)
+/* harmony export */ });
+function handleEmail(event) {
+  debugger;
+  event.preventDefault();
+  const form = event.target;
+  const enteredEmail = form[0];
+}
+
 /***/ })
 
 /******/ 	});
@@ -1593,6 +1612,23 @@ if (false) {} else {
 /******/ 	}
 /******/ 	
 /************************************************************************/
+/******/ 	/* webpack/runtime/define property getters */
+/******/ 	(() => {
+/******/ 		// define getter functions for harmony exports
+/******/ 		__webpack_require__.d = (exports, definition) => {
+/******/ 			for(var key in definition) {
+/******/ 				if(__webpack_require__.o(definition, key) && !__webpack_require__.o(exports, key)) {
+/******/ 					Object.defineProperty(exports, key, { enumerable: true, get: definition[key] });
+/******/ 				}
+/******/ 			}
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/make namespace object */
 /******/ 	(() => {
 /******/ 		// define __esModule on exports
@@ -1623,6 +1659,8 @@ var __webpack_exports__ = {};
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_dom_client__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react-dom/client */ "./node_modules/react-dom/client.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var _controllers_handleEmail_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./controllers/handleEmail.js */ "./src/controllers/handleEmail.js");
+
 
 
 const root = (0,react_dom_client__WEBPACK_IMPORTED_MODULE_0__.createRoot)(window.bodyTag);
@@ -1666,67 +1704,67 @@ root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("main"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
   class: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Reliable System"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Xiaomi Hyper OS, offering a fresh, fast platform to help you stay connected and productive while you're on the go.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
   src: "https://img.freepik.com/premium-vector/processor-logo-icon_617585-3379.jpg",
   width: "100px",
   height: "100px"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
-}, "Column 3 Row 2"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
   src: "https://cdn-icons-png.flaticon.com/512/5234/5234286.png",
   width: "100px",
   height: "100px"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Nice Display"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Features a 6.67-inch a 12-bit flexible OLED display with a resolution of 2,7120 x 1,220 pixels (FHD+), supports 2,400 nits peak brightness, 100 percent DCI-P3 color gamut, 120Hz refresh rate, Dolby Vision, and HDR10+."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
   class: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Fast Processor"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Powered with Qualcomm Snapdragon 8s Gen 3 Octa-core processor that boasts strong graphics processing capacity and advanced Al computing capabilities.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
   src: "https://img.freepik.com/free-vector/futuristic-microchip-processor-background_52683-58934.jpg",
   width: "100px",
   height: "100px"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
   src: "photos\\Redmi-Turbo-3-Harry-Potter-Edition-img-1.webp",
   width: "300px",
   height: "400px"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
   src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1wNmr3tiEFrWkyCvCQypT78JkegIwyymWQ&s",
   width: "100px",
   height: "100px"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Great Camera"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "50MP+8MP dual-camera setup, including a 50MP main lens with OIS support, an 8MP ultra-wide-angle lens. There is a 20MP selfie camera for shooting."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
   class: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "Lots of Storage & Long Lasting Battery"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Provides plenty of storage space for your contacts, music, photos, apps, and more. Equipped with a 5000mAh battery supporting 90W fast charging.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
   src: "https://thumbs.dreamstime.com/b/fast-charging-battery-status-electric-charge-icon-power-energy-indicator-fast-charging-battery-status-electric-charge-icon-power-274158749.jpg",
   width: "100px",
   height: "100px"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
-}, "Column 3 Row 4"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
   src: "https://media.istockphoto.com/id/999012390/vector/finger-print-scanning-identification-system.jpg?s=612x612&w=0&k=20&c=v24rj78hQMCACyJr8OLW2_aMAuvN-8Rc5ZJKxjL9lw4=",
   width: "100px",
   height: "100px"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-  class: "col border border-success"
+  class: "col"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h6", null, "In-display FINGERPRINT SENSOR"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Redmi Turbo 3 Harry Potter Edition has an in-display fingerprint to unlock the phone safely and quickly."))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h3", {
   class: "centerMidSec m-4"
 }, "Exclusive Lock Screens and Wallpapers"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", {
@@ -1765,7 +1803,16 @@ root.render(/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("main"
   src: "photos\\Ravenclaw.jpg",
   width: "200px",
   height: "250px"
-}))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("footer", {
+}))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("section", {
+  class: "centerMidSec p-5"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, "Successfully sign up to receive email notifications and news to receive a discount ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("span", null, "promo code"), "."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("form", {
+  onSubmit: _controllers_handleEmail_js__WEBPACK_IMPORTED_MODULE_2__.handleEmail
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("input", {
+  type: "email",
+  placeholder: "Enter Email"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("input", {
+  type: "submit"
+}))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("footer", {
   class: "centerMidSec"
 }, "Created and designed by David Billiot")));
 })();

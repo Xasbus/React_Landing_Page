@@ -1,5 +1,6 @@
 import { createRoot } from "react-dom/client";
 import React from "react";
+import { handleEmail } from "./controllers/handleEmail.js";
 
 const root = createRoot(window.bodyTag);
 
@@ -75,7 +76,7 @@ root.render(
           <div class="col"></div>
         </div>
         <div class="row">
-          <div class="col border border-success">
+          <div class="col">
             <h6>Reliable System</h6>
             <br />
             <div>
@@ -83,22 +84,22 @@ root.render(
               connected and productive while you're on the go.
             </div>
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <img
               src="https://img.freepik.com/premium-vector/processor-logo-icon_617585-3379.jpg"
               width="100px"
               height="100px"
             />
           </div>
-          <div class="col border border-success">Column 3 Row 2</div>
-          <div class="col border border-success">
+          <div class="col"></div>
+          <div class="col">
             <img
               src="https://cdn-icons-png.flaticon.com/512/5234/5234286.png"
               width="100px"
               height="100px"
             />
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <h6>Nice Display</h6>
             <div>
               Features a 6.67-inch a 12-bit flexible OLED display with a
@@ -109,7 +110,7 @@ root.render(
           </div>
         </div>
         <div class="row">
-          <div class="col border border-success">
+          <div class="col">
             <h6>Fast Processor</h6>
             <div>
               Powered with Qualcomm Snapdragon 8s Gen 3 Octa-core processor that
@@ -117,28 +118,28 @@ root.render(
               computing capabilities.
             </div>
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <img
               src="https://img.freepik.com/free-vector/futuristic-microchip-processor-background_52683-58934.jpg"
               width="100px"
               height="100px"
             />
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <img
               src="photos\Redmi-Turbo-3-Harry-Potter-Edition-img-1.webp"
               width="300px"
               height="400px"
             />
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1wNmr3tiEFrWkyCvCQypT78JkegIwyymWQ&s"
               width="100px"
               height="100px"
             />
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <h6>Great Camera</h6>
             <div>
               50MP+8MP dual-camera setup, including a 50MP main lens with OIS
@@ -148,7 +149,7 @@ root.render(
           </div>
         </div>
         <div class="row">
-          <div class="col border border-success">
+          <div class="col">
             <h6>Lots of Storage & Long Lasting Battery</h6>
             <div>
               Provides plenty of storage space for your contacts, music, photos,
@@ -156,22 +157,22 @@ root.render(
               fast charging.
             </div>
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <img
               src="https://thumbs.dreamstime.com/b/fast-charging-battery-status-electric-charge-icon-power-energy-indicator-fast-charging-battery-status-electric-charge-icon-power-274158749.jpg"
               width="100px"
               height="100px"
             />
           </div>
-          <div class="col border border-success">Column 3 Row 4</div>
-          <div class="col border border-success">
+          <div class="col"></div>
+          <div class="col">
             <img
               src="https://media.istockphoto.com/id/999012390/vector/finger-print-scanning-identification-system.jpg?s=612x612&w=0&k=20&c=v24rj78hQMCACyJr8OLW2_aMAuvN-8Rc5ZJKxjL9lw4="
               width="100px"
               height="100px"
             />
           </div>
-          <div class="col border border-success">
+          <div class="col">
             <h6>In-display FINGERPRINT SENSOR</h6>
             <div>
               Redmi Turbo 3 Harry Potter Edition has an in-display fingerprint
@@ -206,6 +207,17 @@ root.render(
           </div>
         </div>
       </div>
+    </section>
+    <section class="centerMidSec p-5">
+      <div>
+        Successfully sign up to receive email notifications and news to receive
+        a discount <span>promo code</span>.
+      </div>
+      <br />
+      <form onSubmit={handleEmail}>
+        <input type="email" placeholder="Enter Email" />
+        <input type="submit" />
+      </form>
     </section>
     <br />
     <footer class="centerMidSec">Created and designed by David Billiot</footer>
